@@ -1,0 +1,8 @@
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\bin\Debug\ZYLCalculator.exe
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\bin\Debug\ZYLCalculator.pdb
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.Properties.Resources.resources
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.csproj.GenerateResource.Cache
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.exe
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.pdb
+c:\users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.CalculatorWindow.resources
+C:\Users\zyl\documents\visual studio 2010\Projects\ZYLCalculator\ZYLCalculator\obj\x86\Debug\ZYLCalculator.csprojResolveAssemblyReference.cache
